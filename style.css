@@ -1,0 +1,21 @@
+body
+{
+  color: white;
+  background: rgb(34, 117, 41);
+}
+.display-1
+{
+  width: 80%;
+  font-size: 22px;
+}
+#camera
+{
+  border: 3px ridge black;
+  width: 400px;
+  height: 300px;
+}
+.nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
